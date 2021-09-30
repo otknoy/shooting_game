@@ -1,4 +1,4 @@
-# shooting_gage
+# shooting_game
 
 むかしむかしに作ったゲーム
 
